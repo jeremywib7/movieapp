@@ -5,6 +5,15 @@ popular movies and allow the user to search for specific
 movie through the restapi with help of retrofit library &
 MVVM architecture. 
 
+## Feature
+
+The main features of the app:
+
+- Browse popular movies
+- Search movies
+- Read movie detai
+
+
 ## Dependencies
 
 Retrofit 
