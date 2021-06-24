@@ -1,10 +1,32 @@
-Project Title
-Simple Calculator by python
+# Movie Android
 
-Getting started
-This Program run on both Windows and Linux operating system by using pycharm, anaconda 3 or all other python editor with the python version 3.x
-This software is developed by python 3.x
-Used tkinter module for the Graphical User Interface
-It performs Addition, Subtraction, Multiplication and Division only for two numbers
-It is more secure which means you may not enter other anything except the numerical values
-It is more relevant and easy to use for an user
+A movie app that recieves 
+popular movies and allow the user to search for specific
+movie through the restapi with help of retrofit library &
+MVVM architecture. 
+
+## Dependencies
+
+Retrofit 
+
+```bash
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.0-beta4'
+```
+
+
+Glide 
+
+```bash
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
