@@ -11,7 +11,7 @@ The main features of the app:
 
 - Browse popular movies
 - Search movies
-- Read movie detai
+- Read movie detail
 
 
 ## Dependencies
